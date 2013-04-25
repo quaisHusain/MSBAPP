@@ -41,7 +41,6 @@ PLATFORMS
 DEPENDENCIES
   declarative_authorization (= 0.5.1)
   i18n (= 0.4.2)
-  mongrel (= 1.1.5)
   mysql (= 2.8.1)
   rails (= 2.3.5)
   rake (= 0.8.7)
